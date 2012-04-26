@@ -1,0 +1,5 @@
+<Context
+        docBase="${deployment.folder}/gcdml-web-${timestamp}.war"
+        path="/validator"
+        distributable="false">
+</Context>
