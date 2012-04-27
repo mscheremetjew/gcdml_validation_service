@@ -1,0 +1,16 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# IDE files #
+###################
+*gcdml.iml
+*gcdml.ipr
+*gcdml.iws
+*utilities/utilities.iml
+*spring-web/web.iml
