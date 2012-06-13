@@ -1,1 +1,6 @@
-Test
+Objectives:
+#Development of a web application based validation service to check GCDML document instances. Users should be able to check there GCDML document instances on
+a public server hosted by the GSC consortium itself or locally (by downloading and installing this service).
+
+Used technologies:
+#Java and Spring MVC
